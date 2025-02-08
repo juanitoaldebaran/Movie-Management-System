@@ -55,7 +55,7 @@ public class Main {
         String userTypeString = scanner.nextLine();
         UserType userType = UserType.valueOf(userTypeString.toUpperCase());
 
-        User user
+        User user;
     }
 
     public static void displayMovie() {
